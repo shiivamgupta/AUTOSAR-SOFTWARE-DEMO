@@ -30,6 +30,9 @@ There are two types of AUTOSAR architectures named Classic and Adaptive. The cla
 ⏺How To Create AUTOSAR Project
 For creating an AUTOSAR project you will need software like DaVinci Configurator and developer from Vector. These software generate code based on AUTOSAR framework for your selected hardware, you cannot generate code directly without these software as we do in normal Embedded systems program by using IDE.
 
+Project Link:-
+https://github.com/shiivamgupta/AUTOSAR-SOFTWARE-DEMO
+
 Acknowledgements:-
 1. https://www.linkedin.com/posts/theembeddedsoftwareengineer_automotive-cybersecurity-communication-activity-7052863609839779841-ouy1?utm_source=share&utm_medium=member_desktop
 2. https://www.udemy.com/course/autosar-architecture/ (For Full Demo Explanation).
